@@ -1,0 +1,29 @@
+{
+  "name": "CSIndex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/argparse": "^1.0.38",
+    "@types/cheerio": "^0.22.15",
+    "@types/ramda": "^0.26.39",
+    "@types/yargs": "^15.0.0",
+    "argparse": "^1.0.10",
+    "axios": "^0.19.1",
+    "cheerio": "^1.0.0-rc.3",
+    "lodash": "^4.17.15",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.24.0",
+    "ramda": "^0.26.1",
+    "yargs": "^15.1.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.149"
+  }
+}
